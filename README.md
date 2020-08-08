@@ -66,3 +66,16 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+# koenigsegg
+
+## functionnal scope
+- car maintenance app
+
+## technical scope
+- aws amplify 
+- react 
+- graphql 
+- lambda function (python)
+- dynamodb
+- cognito authentication and iam roles
