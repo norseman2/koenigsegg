@@ -1,3 +1,12 @@
 # koenigsegg
-aws amplify react graphql lambda dynamodb portofolio app
-car maintenance app
+
+## functionnal scope
+- car maintenance app
+
+## technical scope
+- aws amplify 
+- react 
+- graphql 
+- lambda function (python)
+- dynamodb
+- cognito authentication and iam roles
