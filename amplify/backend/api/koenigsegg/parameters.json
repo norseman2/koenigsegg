@@ -1,0 +1,11 @@
+{
+    "AppSyncApiName": "koenigsegg",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authkoenigsegg028355e1",
+            "Outputs.UserPoolId"
+        ]
+    }
+}
