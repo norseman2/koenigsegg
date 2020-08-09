@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-koenigsegg-dev-142555-authRole",
+            "UnauthRoleArn": "arn:aws:iam::575704994123:role/amplify-koenigsegg-dev-142555-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::575704994123:role/amplify-koenigsegg-dev-142555-authRole",
+            "Region": "ca-central-1",
+            "DeploymentBucketName": "amplify-koenigsegg-dev-142555-deployment",
+            "UnauthRoleName": "amplify-koenigsegg-dev-142555-unauthRole",
+            "StackName": "amplify-koenigsegg-dev-142555",
+            "StackId": "arn:aws:cloudformation:ca-central-1:575704994123:stack/amplify-koenigsegg-dev-142555/9a19afa0-d9a4-11ea-bc61-0291f7a17924",
+            "AmplifyAppId": "d3uvc29rtzbm0q"
+        },
+        "categories": {
+            "auth": {
+                "koenigseggd88c8c12": {}
+            }
+        }
+    }
+}
