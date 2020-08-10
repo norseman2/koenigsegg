@@ -96,7 +96,7 @@ class App extends React.Component {
                 <th>License plate</th>
                 <th>Description</th>
                 <th>Category</th>
-                <th>Type</th>
+                <th>TYPE</th>
                 <th>Mileage</th>
                 <th>Fuel</th>
               </tr>
